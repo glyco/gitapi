@@ -13,5 +13,7 @@ namespace gitapi
 
         public string Summary { get; set; }
         public string desc2 {get;set;}
+
+        public string desc3 {get;set;}
     }
 }
