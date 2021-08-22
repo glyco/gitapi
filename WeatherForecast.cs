@@ -14,8 +14,12 @@ namespace gitapi
         public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
 
         public string Summary { get; set; }
+
+        public string Summary2 { get; set; }
         public string desc2 {get;set;}
 
         public string desc3 {get;set;}
+
+        public string desc4 {get;set;}
     }
 }
