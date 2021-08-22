@@ -15,5 +15,7 @@ namespace gitapi
         public string desc2 {get;set;}
 
         public string desc3 {get;set;}
+
+        public string desc4 {get;set;}
     }
 }
